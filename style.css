@@ -1,0 +1,80 @@
+/* Estilo geral */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1, h2, h3 {
+    font-weight: normal;
+  }
+  
+  h2{
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  p {
+    margin-bottom: 10px;
+  }
+  
+
+  
+  /* Cabeçalho */
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  header h1 {
+    margin-top: 0;
+  }
+  
+  header img {
+    height: 50px;
+    margin: 0 auto;
+  }
+  
+  /* Conteúdo principal */
+  
+  main {
+    padding: 20px;
+  }
+  
+  section.hamburguer {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  section.hamburguer img {
+    margin-bottom: 10px;
+  }
+  
+  section.hamburguer h3 {
+    margin-top: 0;
+  }
+  
+  /* Acompanhamentos */
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  ul li {
+    margin-bottom: 10px;
+  }
+  
+  /* Rodapé */
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
