@@ -1,80 +1,124 @@
-/* Estilo geral */
+/* styles.css */
 
+/* Estilos gerais */
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-  }
-  
-  h1, h2, h3 {
-    font-weight: normal;
-  }
-  
-  h2{
-    font-family: Arial, Helvetica, sans-serif;
-  }
-  p {
-    margin-bottom: 10px;
-  }
-  
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  margin: 0;
+  padding: 0;
+}
 
-  
-  /* Cabeçalho */
-  
-  header {
-    background-color: #333;
-    color: #fff;
-    padding: 10px;
-    text-align: center;
-  }
-  
-  header h1 {
-    margin-top: 0;
-  }
-  
-  header img {
-    height: 50px;
-    margin: 0 auto;
-  }
-  
-  /* Conteúdo principal */
-  
-  main {
-    padding: 20px;
-  }
-  
-  section.hamburguer {
-    border: 1px solid #ddd;
-    border-radius: 10px;
-    margin-bottom: 20px;
-    padding: 10px;
-    text-align: center;
-  }
-  
-  section.hamburguer img {
-    margin-bottom: 10px;
-  }
-  
-  section.hamburguer h3 {
-    margin-top: 0;
-  }
-  
-  /* Acompanhamentos */
-  
-  ul {
-    list-style: none;
-    padding: 0;
-  }
-  
-  ul li {
-    margin-bottom: 10px;
-  }
-  
-  /* Rodapé */
-  
-  footer {
-    background-color: #333;
-    color: #fff;
-    padding: 10px;
-    text-align: center;
-  }
+/* Cabeçalho */
+header {
+  text-align: center;
+  background-color: #181717;
+  margin: 4px;
+}
+
+img {
+  width: 255px;
+}
+header img {
+  width: 800px;
+}
+/* Itens do cardápio */
+.menu {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 2rem;
+}
+
+.item {
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 1rem;
+  margin: 1rem;
+  width: 300px;
+}
+
+.item h2 {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+
+.item p {
+  font-size: 0.9rem;
+  color: #777;
+}
+
+.item span {
+  font-weight: bold;
+  font-size: 1.1rem;
+  color: #333;
+}
+
+/* Rodapé */
+footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: #333;
+  color: #fff;
+}
+.acompanhamentos {
+  border-image-width: 200px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #111;
+}
+.active {
+  background-color: #e9b62a;
+}
+ul img {
+  padding-top: 0px;
+  padding: 0 900px 0 1000px;
+  width: 150px;
+  position: absolute;
+}
+/* Conteúdo principal */
+
+main {
+  padding: 20px;
+}
+
+section.apresentacao {
+  text-align: left;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+section.apresentacao img {
+  margin-bottom: 20px;
+}
+
+section.missao-visao {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+
+section.contato {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 10px;
+}
