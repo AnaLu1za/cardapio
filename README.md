@@ -12,9 +12,29 @@
 
 
 ## Introdução 
+**Nosso cardápio oferece:**
+- **Variedade:** Uma ampla seleção de pratos, desde hambúrgueres e pizzas até saladas e massas.
+- **Qualidade:** Todos os nossos pratos são preparados com ingredientes frescos e de alta qualidade.
+- **Sabor:** Experimente os nossos sabores autênticos e deliciosos.
+- **Preços acessíveis:** Opções para todos os bolsos.
 
+**Navegue pelo nosso site e explore as diversas opções:**
+- Veja as fotos para ter uma ideia da apresentação dos pratos.
+- Leia as descrições para saber mais sobre os ingredientes e o sabor dos pratos.
 
 ## Funcionalidades
+O site de cardápio é uma ferramenta online que permite que restaurantes e outros estabelecimentos alimentícios apresentem seus menus aos clientes de forma digital. Ele oferece diversas funcionalidades que podem ser vantajosas tanto para o negócio quanto para os consumidores.
+
+**Para os clientes:**
+**Acesso fácil e rápido ao cardápio:** Os clientes podem visualizar o cardápio completo a qualquer hora e em qualquer lugar, sem precisar esperar por um garçom ou ir até o restaurante.
+**Informações detalhadas sobre os pratos:** O site pode incluir fotos, descrições completas dos ingredientes, preços e informações nutricionais de cada item do cardápio.
+**Filtros e buscas:** Os clientes podem filtrar os pratos por categoria, preço, ingredientes e outras opções para encontrar os que mais lhe interessam.
+
+**Para os negócios:**
+**Maior alcance e visibilidade:** O site do cardápio pode ser acessado por um público maior do que o menu físico, atraindo novos clientes e fidelizando os existentes.
+**Atualizações em tempo real:** O cardápio online pode ser atualizado facilmente e em tempo real, sem necessidade de imprimir novos menus físicos.
+Redução de custos: O site do cardápio pode reduzir custos com impressão, distribuição e atualização de menus físicos.
+**Melhoria do atendimento ao cliente:** O site do cardápio pode agilizar o atendimento, diminuir o tempo de espera dos clientes e oferecer uma experiência mais personalizada.
 
 
 ## Técnicas e tecnologias utilizadas
