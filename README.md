@@ -13,6 +13,8 @@ O site de cardápio é uma plataforma online que permite que restaurantes e outr
 
 ![video inicio](img/hamburguer-pagina-inicial.gif)
 
+![video produtos](img/hamburguer-produtos.gif)
+
 
 ## Introdução 
 **Nosso cardápio oferece:**
