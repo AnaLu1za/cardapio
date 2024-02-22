@@ -1,5 +1,5 @@
 # Cardápio 
-![logo](img/logo.png)
+![logo](img/Image.png)
 
 ## Índice 
 * [Descrição](#descrição)
