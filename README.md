@@ -9,6 +9,9 @@
 * [Fontes Consultadas](#fontes-consultadas)
 
 ## Descrição
+O site de cardápio é uma plataforma online que permite que restaurantes e outros estabelecimentos alimentícios apresentem seus menus aos clientes de forma digital. Ele oferece diversas funcionalidades que podem ser vantajosas tanto para o negócio quanto para os consumidores.
+
+![video inicio](img/hamburguer-pagina-inicial.mp4)
 
 
 ## Introdução 
